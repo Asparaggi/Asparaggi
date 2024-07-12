@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Asparaggi .NET Expert Engineer
+- 👋 Hi, I’m @Asparaggi .NET and Java Expert Engineer.
 - 👀 I’m interested in programming (of course 😊) both backend and frontend
-- 🌱 I’m currently learning frontend approaches and strategies, as I have been coding backend several years
+- 🌱 I’m currently learning frontend approaches and strategies mostly angular and react, as I have been coding backend several years
 - 📫 You can reach me at asparaggi@yahoo.es
 
 <!---
